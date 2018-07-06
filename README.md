@@ -53,3 +53,8 @@ To run the just built docker image with the local config loaded and the proper p
 ```bash
 $ make docker-run
 ```
+
+### Inspiration and Contributors:
+
+https://github.com/silven/go-example/blob/master/Makefile
+https://vic.demuzere.be/articles/golang-makefile-crosscompile/
