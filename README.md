@@ -31,7 +31,22 @@ To build and run this boilerplate run:
 ```bash
 $ make install
 $ go-boilerplate
+A boilerplate for an API written in Golang
 
+Usage:
+  go-boilerplate [command]
+
+Available Commands:
+  help        Help about any command
+  serve       Runs the server
+  version     Prints version information
+
+Flags:
+      --config string   config file (default is $HOME/.go-boilerplate.yaml)
+  -h, --help            help for go-boilerplate
+  -t, --toggle          Help message for toggle
+
+Use "go-boilerplate [command] --help" for more information about a command.
 ```
 
 ### Docker
